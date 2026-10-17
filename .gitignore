@@ -1,3 +1,5 @@
-/zarge
+.build/
+build/
+.swiftpm/
 .claude
 .DS_Store

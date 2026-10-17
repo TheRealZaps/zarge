@@ -1,0 +1,38 @@
+{
+  "fill": {
+    "automatic-gradient": "extended-srgb:0.00000,0.00000,0.00000,1.00000"
+  },
+  "groups": [
+    {
+      "layers": [
+        {
+          "glass": true,
+          "image-name": "diagonal.svg",
+          "name": "diagonal"
+        },
+        {
+          "glass": true,
+          "image-name": "top.svg",
+          "name": "top"
+        },
+        {
+          "glass": true,
+          "image-name": "bottom.svg",
+          "name": "bottom"
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0.5
+      },
+      "specular": true,
+      "translucency": {
+        "enabled": true,
+        "value": 0.4
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": "shared"
+  }
+}
